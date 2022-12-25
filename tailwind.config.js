@@ -2,7 +2,27 @@
 module.exports = {
   content: ['./*.html'],
   theme: {
-    extend: {},
+    screens: {
+      sm: '480px',
+      md: '760px',
+      lg: '976px',
+      xl: '1440px',
+    },
+    extend: {
+      colors: {
+        // Primary
+        darkBlueIntro: 'hsl(217, 28%, 15%)',
+        darkblueMain: 'hsl(218, 28%, 13%)',
+        darkBlueFooter: 'hsl(216, 53%, 9%)',
+        darkBlueTestimonials: 'hsl(219, 30%, 18%)',
+
+        // Accent
+        cyan: 'hsl(176, 68%, 64%)',
+        blue: 'hsl(198, 60%, 50%)',
+        lightRed: 'sl(0, 100%, 63%)'
+
+      }
+    },
   },
   plugins: [],
 }

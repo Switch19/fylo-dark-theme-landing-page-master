@@ -1,4 +1,4 @@
-body{
+:root, a, button, div{
     transition: .5s ease;
 }
 .hero{

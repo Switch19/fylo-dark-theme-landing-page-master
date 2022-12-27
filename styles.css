@@ -1,0 +1,20 @@
+body{
+    transition: .5s ease;
+}
+.hero{
+    position: relative;
+    z-index: 2;
+    margin-bottom: -8rem;
+}
+.main{
+    position: relative;
+    /* bottom: -2rem; */
+}
+@media screen and (min-width:800px) {
+    .hero{
+        position: relative;
+        z-index: 2;
+        margin-bottom: -16rem;
+    }
+    
+}

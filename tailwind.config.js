@@ -12,13 +12,17 @@ module.exports = {
       colors: {
         // Primary
         darkBlueIntro: 'hsl(217, 28%, 15%)',
-        darkblueMain: 'hsl(218, 28%, 13%)',
+        darkBlueMain: 'hsl(218, 28%, 13%)',
         darkBlueFooter: 'hsl(216, 53%, 9%)',
         darkBlueTestimonials: 'hsl(219, 30%, 18%)',
 
+        // images background
+        curvyImageDesktop: './images/bg-curvy-desktop.svg',
+        curvyImageMobile: './images/bg-curvy-mobile.svg',
+
         // Accent
         cyan: 'hsl(176, 68%, 64%)',
-        blue: 'hsl(198, 60%, 50%)',
+        normalBlue: 'hsl(198, 60%, 50%)',
         lightRed: 'sl(0, 100%, 63%)'
 
       }

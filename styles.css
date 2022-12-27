@@ -18,3 +18,13 @@ body{
     }
     
 }
+.Contact{
+    box-shadow: 3px 8px 10px 1px rgb(18, 18, 21);
+    position: relative;
+    z-index: 2;
+    margin-bottom: -6rem;
+
+}
+form input{
+    outline: none;
+}

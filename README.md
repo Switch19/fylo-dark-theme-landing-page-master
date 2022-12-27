@@ -33,7 +33,6 @@ Users should be able to:
 ![](./screenshots/mobilescreenshot.png)
 
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Built with
 
@@ -43,7 +42,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - TailwindCss
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 How to use Tailwind to build faster and efficiently. Desing from a mobile first workflow
